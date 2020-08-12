@@ -1,0 +1,6 @@
+/home/osgdev/SA323663/ILP_CI_CD_1/ILP_BookStoreWorkspace/src/main/java/devops/ilp1/model/User.java
+/home/osgdev/SA323663/ILP_CI_CD_1/ILP_BookStoreWorkspace/src/main/java/devops/ilp1/service/UserService.java
+/home/osgdev/SA323663/ILP_CI_CD_1/ILP_BookStoreWorkspace/src/main/java/devops/ilp1/controllerWithoutDb/UserRegisterController.java
+/home/osgdev/SA323663/ILP_CI_CD_1/ILP_BookStoreWorkspace/src/main/java/devops/ilp1/db/UserDb.java
+/home/osgdev/SA323663/ILP_CI_CD_1/ILP_BookStoreWorkspace/src/main/java/devops/ilp1/controllerWithoutDb/UserLoginController.java
+/home/osgdev/SA323663/ILP_CI_CD_1/ILP_BookStoreWorkspace/src/main/java/devops/ilp1/controllerWithoutDb/UserPasswordController.java

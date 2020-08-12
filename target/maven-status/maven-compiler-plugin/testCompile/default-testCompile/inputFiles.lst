@@ -1,0 +1,6 @@
+/home/osgdev/SA323663/ILP_CI_CD_1/ILP_BookStoreWorkspace/src/test/java/devops/ilp1/controllerWithoutDb/ChangePasswordTest.java
+/home/osgdev/SA323663/ILP_CI_CD_1/ILP_BookStoreWorkspace/src/test/java/devops/ilp1/controllerWithoutDb/RegisterTest.java
+/home/osgdev/SA323663/ILP_CI_CD_1/ILP_BookStoreWorkspace/src/integration-test/java/devops/ilp1/LoginFunctionalTest.java
+/home/osgdev/SA323663/ILP_CI_CD_1/ILP_BookStoreWorkspace/src/integration-test/java/devops/ilp1/IntegrationTest.java
+/home/osgdev/SA323663/ILP_CI_CD_1/ILP_BookStoreWorkspace/src/test/java/devops/ilp1/controllerWithoutDb/LoginTest.java
+/home/osgdev/SA323663/ILP_CI_CD_1/ILP_BookStoreWorkspace/src/test/java/devops/ilp1/service/UserServiceTest.java
